@@ -115,6 +115,23 @@ const About = () => {
                 Played a pivotal role in organizing the International Conference on Artificial Intelligence in Mauritania, contributing to the advancement of AI research and networking within the global community.
               </p>
             </div>
+            {/* Supabase Launch Week 14 Winner Achievement */}
+            <div className="bg-white/5 p-4 rounded-lg shadow">
+              <div className="flex items-center mb-2">
+                <h3 className="text-xl font-semibold text-white mr-2">Thimar - AI Productivity Platform</h3>
+                <span className="bg-indigo-700 text-white text-xs font-semibold px-2.5 py-0.5 rounded-full">2024</span>
+              </div>
+              <span className="inline-block bg-indigo-900 text-indigo-200 text-xs font-semibold px-2.5 py-0.5 rounded mb-2">🏆 Supabase Launch Week 14 Winner</span>
+              <p className="text-gray-300">
+                Winner of Supabase Launch Week 14. AI-powered productivity platform with prayer-time scheduling and habit tracking.<br/>
+                <span className="font-semibold">Key Highlights:</span>
+                <ul className="list-disc list-inside ml-4">
+                  <li>Built task management platform with prayer-time scheduling</li>
+                  <li>Implemented real-time data sync using Supabase</li>
+                  <li>Developed habit-tracking visualizations with AI recommendations</li>
+                </ul>
+              </p>
+            </div>
           </div>
         </div>
       </div>
