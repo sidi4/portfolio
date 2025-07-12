@@ -13,7 +13,7 @@ const Projects = () => {
     {
       title: "Thimar App",
       description: "A Goal and Task management app built specifically for Muslims.",
-      technologies: ["React", "TypeScript", "Django", "Supabase", ""],
+      technologies: ["React", "TypeScript", "Django", "Supabase"],
       image: "/Thimar.jpeg",
       link: "https://github.com/thimar-app/thimar.git"
     },
