@@ -117,11 +117,13 @@ const About = () => {
             </div>
             {/* Supabase Launch Week 14 Winner Achievement */}
             <div className="bg-white/5 p-4 rounded-lg shadow">
-              <div className="flex items-center mb-2">
-                <h3 className="text-xl font-semibold text-white mr-2">Thimar - AI Productivity Platform</h3>
-                <span className="bg-indigo-700 text-white text-xs font-semibold px-2.5 py-0.5 rounded-full">2024</span>
+              <div className="flex items-center justify-between mb-2">
+                <h3 className="text-xl font-semibold text-white">Thimar - AI Productivity Platform</h3>
+                <div className="flex flex-col items-end">
+                  <span className="bg-indigo-700 text-white text-xs font-semibold px-2.5 py-0.5 rounded-full mb-1">2024</span>
+                  <span className="inline-block bg-indigo-900 text-indigo-200 text-xs font-semibold px-2.5 py-0.5 rounded">🏆 Supabase Launch Week 14 Winner</span>
+                </div>
               </div>
-              <span className="inline-block bg-indigo-900 text-indigo-200 text-xs font-semibold px-2.5 py-0.5 rounded mb-2">🏆 Supabase Launch Week 14 Winner</span>
               <p className="text-gray-300">
                 Winner of Supabase Launch Week 14. AI-powered productivity platform with prayer-time scheduling and habit tracking.<br/>
                 <span className="font-semibold">Key Highlights:</span>

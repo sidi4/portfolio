@@ -11,7 +11,7 @@ const Projects = () => {
       link: "https://github.com/medbbh/Gestion_vente.git"
     },
     {
-      title: "Thimar App",
+      title: "Thimar - AI Productivity Platform",
       description: "A Goal and Task management app built specifically for Muslims.",
       technologies: ["React", "TypeScript", "Django", "Supabase","AI"],
       image: "/Thimar.jpeg",
