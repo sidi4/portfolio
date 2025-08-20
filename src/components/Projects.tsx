@@ -26,7 +26,7 @@ const Projects = () => {
     },
     {
       title: "PACMAN",
-      description: "This project is an IoT-based Smoke, Gas & Flame Detection System that uses an MQ-2 sensor to detect gas and smoke levels and a Flame Sensor to detect fire. It sends real-time notifications via Blynk and stores data in a MySQL database for monitoring.",
+      description: "A classic arcade game with custom algorithms and obstacle detection.",
       technologies: ["Python", , "Pygame"],
       image: "/Pacman.jpeg",
       link: "https://github.com/medbbh/pac-man.git"
